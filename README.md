@@ -1,2 +1,1 @@
-# SourceryAnswer
 Bonus task answer
